@@ -1,2 +1,2 @@
 # codinglilong.github.io
-My introduction
+This is my personal profile

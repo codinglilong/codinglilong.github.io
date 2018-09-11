@@ -1,0 +1,22 @@
+{
+  "name": "moviecat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -a 0.0.0.0 -p 3065"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.5.8",
+    "angular-ui-router": "^0.3.1",
+    "bootstrap": "^3.3.7",
+    "fullpage": "^1.4.2",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.1.0",
+    "jquery": "^1.11.0",
+    "nprogress": "^0.2.0"
+  }
+}
